@@ -1,0 +1,3 @@
+swap
+prime
+reverse string

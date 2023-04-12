@@ -1,16 +1,18 @@
-class Pattern4
+class Pattern4 
 {
 	public static void main(String[] args) 
 	{
-		int a,b;
-		for (a=1;a<=5 ;a++ )
+		for (int i=1;i<=5 ;i++ )
 		{
-			for (b=5;b>=a ;b-- )
+			for (int j=5;j>=i ;j-- )
+		    {
+			   System.out.print(" ");
+		    }
+			for (int k=1; k<=i;k++ )
 			{
-				System.out.print(a+" ");
-			}
-			System.out.println();
+			   System.out.print(" *");
+		    }
+		    System.out.println();
 		}
-		
 	}
 }

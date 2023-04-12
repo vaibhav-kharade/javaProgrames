@@ -1,16 +1,14 @@
-class Pattern2
+class Pattern2 
 {
 	public static void main(String[] args) 
 	{
-		int a,b;
-		for (a=1;a<=5 ;a++ )
+		for (int i=1;i<=5 ;i++ )
 		{
-			for (b=a;b>=1 ;b-- )
-			{
-				System.out.print(b+" ");
-			}
-			System.out.println();
+			for (int j=5;j>=i ;j-- )
+		    {
+			   System.out.print("*");
+		    }
+		    System.out.println();
 		}
-		
 	}
 }
