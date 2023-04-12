@@ -1,0 +1,7 @@
+1)what is the difference between abstract class and coplicated or concrete class?
+2) treeset and hasset
+3) exception in tree set which exception occurs ? but in occurs interogative exception?
+4) what is derive type casting?
+5) what is typecasting?
+6) what is diamond problem in java?
+7) what is integer class in java?
